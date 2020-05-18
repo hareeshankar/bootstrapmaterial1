@@ -1,6 +1,6 @@
 import React from "react";
 import { Form, Button } from "react-bootstrap";
-export default function Nav() {
+export default function SignIn(props) {
   return (
     <div style={{ marginBottom: "10px" }}>
       <Form>

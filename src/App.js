@@ -25,7 +25,6 @@ class App extends React.Component {
       <Router>
         <div>
           <Nav />
-          <ProtectedRoute />
           <Switch>
             <Route
               exact
